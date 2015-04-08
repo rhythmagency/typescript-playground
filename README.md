@@ -11,3 +11,6 @@ Here's how you can get started playing with TypeScript with this repository.
 * npm install
 * grunt
 * The compiled JavaScript will appear in the "compiled-scripts" folder.
+
+# Test Commit
+My last commit didn't seem to work. Will this one?
