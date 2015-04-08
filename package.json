@@ -1,0 +1,9 @@
+{
+  "name": "TypeScript-Playground",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt-typescript": "^0.6.1",
+    "load-grunt-tasks": "^3.1.0",
+    "typescript": "^1.4.1"
+  }
+}

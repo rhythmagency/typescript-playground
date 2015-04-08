@@ -1,0 +1,6 @@
+# Ignore node_modules (this is populated with npm install).
+node_modules
+
+// Ignore compiled-scripts (this is populated with grunt).
+compiled-scripts/*.js
+compiled-scripts/*.d.ts
